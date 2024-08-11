@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    padding: 16px;
+    p{
+        display: inline;
+    }
+}
+
+.menu{
+    display: inline;
+    margin-left: 300px;
+    a{
+        text-decoration: none;
+        color: rgb(44, 43, 43);
+        font-weight: 800;
+    }
+}
+
+#profile{
+    color: orange;
+}
+
+.title{
+    text-align: center;
+    line-height: 32px;
+    letter-spacing: ;
+}
